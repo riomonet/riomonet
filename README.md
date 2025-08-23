@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Ari 👋
 
-<!--
-**riomonet/riomonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Professor passionate about low-level programming and embedded systems. Currently teaching Operating Systems and Computer Architecture while building projects in C/C++.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Languages:** C, C++, Assembly (x86/ARM), Python
+- **Embedded:** Arduino, ARM Cortex-M, UART/SPI/I2C
+- **Systems:** Linux kernel concepts, Memory management, Real-time systems
+- **Tools:** GCC, GDB, Make, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus
+- Building embedded systems projects
+- Learning kernel development
+- Contributing to open-source C projects
+
+### 📚 Teaching
+Professor at Brooklyn College teaching:
+- Operating Systems
+- Computer Architecture  
+- C/C++ Programming
+- Computer Graphics in C
+
+### 🎯 Looking For
+Junior roles in systems programming, embedded development, or firmware engineering.
+Open to contract/temporary positions.
+
+### 📫 Contact
+- LinkedIn: [riomonet](https://linkedin.com/in/riomonet)
+- Email: ari@marina59.com
