@@ -3,13 +3,12 @@
 C Programmer
 ### 🔧 Technologies & Tools
 - **Languages:** C, C++, Assembly (x86/ARM), Python
-- **Embedded:** Arduino, ARM Cortex-M, UART/SPI/I2C
 - **Systems:** Linux kernel concepts, Memory management, Real-time systems
-- **Tools:** GCC, GDB, Make, Git
+- **Tools:** GCC, GDB, Make, Git, Valgrind, emacs
 
 
 ### 📚 Teaching
-Professor at Brooklyn College teaching:
+Former Professor at Brooklyn College teaching:
 - Operating Systems
 - Computer Architecture  
 - C/C++ Programming
